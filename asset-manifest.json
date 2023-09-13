@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.cf8870ce.css",
-    "main.js": "/irprd/static/js/main.1aa5ee88.js",
+    "main.css": "/irprd/static/css/main.9385955a.css",
+    "main.js": "/irprd/static/js/main.4f02dcf6.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
     "static/media/Hourglass.svg": "/irprd/static/media/Hourglass.b47ca871c6895f973b094cfb652131a6.svg",
@@ -22,18 +22,24 @@
     "static/media/earthday.png": "/irprd/static/media/earthday.99aef9e65952883178cf.png",
     "static/media/teamwork.png": "/irprd/static/media/teamwork.d3630e9e79a46b218d83.png",
     "static/media/pic2.png": "/irprd/static/media/pic2.cfc4e203942b0344b7d3.png",
+    "static/media/logo.svg": "/irprd/static/media/logo.9bb754a553bb7115fef2ce0a889316c6.svg",
     "static/media/Layer21.png": "/irprd/static/media/Layer21.a456ab06d32ed234d0d2.png",
     "static/media/HelveticaNowDisplay-Regular.woff": "/irprd/static/media/HelveticaNowDisplay-Regular.7a5d20e347c39360a736.woff",
+    "static/media/instagram.png": "/irprd/static/media/instagram.79535458a8a6d88f81d4.png",
     "static/media/NeusharpBold-7B8RV.woff": "/irprd/static/media/NeusharpBold-7B8RV.3421a48d49ceed66961d.woff",
+    "static/media/twitter.png": "/irprd/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/facebook.png": "/irprd/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/youtube.png": "/irprd/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "static/media/linkedin.png": "/irprd/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "static/media/logo.png": "/irprd/static/media/logo.c72825c98db750022b81.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.cf8870ce.css.map": "/irprd/static/css/main.cf8870ce.css.map",
-    "main.1aa5ee88.js.map": "/irprd/static/js/main.1aa5ee88.js.map",
+    "main.9385955a.css.map": "/irprd/static/css/main.9385955a.css.map",
+    "main.4f02dcf6.js.map": "/irprd/static/js/main.4f02dcf6.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf8870ce.css",
-    "static/js/main.1aa5ee88.js"
+    "static/css/main.9385955a.css",
+    "static/js/main.4f02dcf6.js"
   ]
 }
