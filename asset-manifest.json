@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.544af82d.css",
-    "main.js": "/irprd/static/js/main.9dd6ebdc.js",
+    "main.css": "/irprd/static/css/main.82212a19.css",
+    "main.js": "/irprd/static/js/main.301762e9.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
     "static/media/Hourglass.svg": "/irprd/static/media/Hourglass.b47ca871c6895f973b094cfb652131a6.svg",
@@ -34,12 +34,12 @@
     "static/media/logo.png": "/irprd/static/media/logo.c72825c98db750022b81.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.544af82d.css.map": "/irprd/static/css/main.544af82d.css.map",
-    "main.9dd6ebdc.js.map": "/irprd/static/js/main.9dd6ebdc.js.map",
+    "main.82212a19.css.map": "/irprd/static/css/main.82212a19.css.map",
+    "main.301762e9.js.map": "/irprd/static/js/main.301762e9.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.544af82d.css",
-    "static/js/main.9dd6ebdc.js"
+    "static/css/main.82212a19.css",
+    "static/js/main.301762e9.js"
   ]
 }
