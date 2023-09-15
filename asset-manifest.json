@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.9bcc04ad.css",
-    "main.js": "/irprd/static/js/main.b4f82c4d.js",
+    "main.css": "/irprd/static/css/main.df24620f.css",
+    "main.js": "/irprd/static/js/main.69d5a7ac.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
     "static/media/Hourglass.svg": "/irprd/static/media/Hourglass.b47ca871c6895f973b094cfb652131a6.svg",
@@ -34,12 +34,12 @@
     "static/media/logo.png": "/irprd/static/media/logo.c72825c98db750022b81.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.9bcc04ad.css.map": "/irprd/static/css/main.9bcc04ad.css.map",
-    "main.b4f82c4d.js.map": "/irprd/static/js/main.b4f82c4d.js.map",
+    "main.df24620f.css.map": "/irprd/static/css/main.df24620f.css.map",
+    "main.69d5a7ac.js.map": "/irprd/static/js/main.69d5a7ac.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bcc04ad.css",
-    "static/js/main.b4f82c4d.js"
+    "static/css/main.df24620f.css",
+    "static/js/main.69d5a7ac.js"
   ]
 }
