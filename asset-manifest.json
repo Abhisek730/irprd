@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.4e6d7a17.css",
-    "main.js": "/irprd/static/js/main.bbcfc15a.js",
+    "main.css": "/irprd/static/css/main.75027b4d.css",
+    "main.js": "/irprd/static/js/main.66d8b6b3.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/banner.png": "/irprd/static/media/banner.2f4ffd0dffdd4b69db02.png",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
     "static/media/Hourglass.svg": "/irprd/static/media/Hourglass.b47ca871c6895f973b094cfb652131a6.svg",
     "static/media/man.svg": "/irprd/static/media/man.f18440e08c3160dd5e02d2b0766a5f30.svg",
     "static/media/dalaiLama.png": "/irprd/static/media/dalaiLama.86d6cb2ee7d8f60f28c5.png",
+    "static/media/RajivRanjan.png": "/irprd/static/media/RajivRanjan.5cc906d45952f710343b.png",
     "static/media/Layer19.png": "/irprd/static/media/Layer19.2aa81002d762b072556c.png",
     "static/media/bgAndEvolution.png": "/irprd/static/media/bgAndEvolution.8c70bf709ba7fe339ac0.png",
     "static/media/trustAreas.png": "/irprd/static/media/trustAreas.bb3f0bcc72ac09a45a0a.png",
@@ -30,18 +31,19 @@
     "static/media/instagram.png": "/irprd/static/media/instagram.79535458a8a6d88f81d4.png",
     "static/media/NeusharpBold-7B8RV.woff": "/irprd/static/media/NeusharpBold-7B8RV.3421a48d49ceed66961d.woff",
     "static/media/twitter.png": "/irprd/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/OPTIMA.woff": "/irprd/static/media/OPTIMA.20932a305858c4e79b57.woff",
     "static/media/facebook.png": "/irprd/static/media/facebook.49e67d43221b6bb1aa86.png",
     "static/media/youtube.png": "/irprd/static/media/youtube.b4f2b64af1b614ce26dc.png",
     "static/media/linkedin.png": "/irprd/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "static/media/logo.png": "/irprd/static/media/logo.c72825c98db750022b81.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.4e6d7a17.css.map": "/irprd/static/css/main.4e6d7a17.css.map",
-    "main.bbcfc15a.js.map": "/irprd/static/js/main.bbcfc15a.js.map",
+    "main.75027b4d.css.map": "/irprd/static/css/main.75027b4d.css.map",
+    "main.66d8b6b3.js.map": "/irprd/static/js/main.66d8b6b3.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e6d7a17.css",
-    "static/js/main.bbcfc15a.js"
+    "static/css/main.75027b4d.css",
+    "static/js/main.66d8b6b3.js"
   ]
 }
