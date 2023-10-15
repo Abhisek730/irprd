@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.75027b4d.css",
-    "main.js": "/irprd/static/js/main.66d8b6b3.js",
+    "main.css": "/irprd/static/css/main.aa5c45fa.css",
+    "main.js": "/irprd/static/js/main.81b0442d.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/banner.png": "/irprd/static/media/banner.2f4ffd0dffdd4b69db02.png",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
@@ -38,12 +38,12 @@
     "static/media/logo.png": "/irprd/static/media/logo.c72825c98db750022b81.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.75027b4d.css.map": "/irprd/static/css/main.75027b4d.css.map",
-    "main.66d8b6b3.js.map": "/irprd/static/js/main.66d8b6b3.js.map",
+    "main.aa5c45fa.css.map": "/irprd/static/css/main.aa5c45fa.css.map",
+    "main.81b0442d.js.map": "/irprd/static/js/main.81b0442d.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75027b4d.css",
-    "static/js/main.66d8b6b3.js"
+    "static/css/main.aa5c45fa.css",
+    "static/js/main.81b0442d.js"
   ]
 }
