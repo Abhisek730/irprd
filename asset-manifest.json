@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/irprd/static/css/main.27dc1565.css",
-    "main.js": "/irprd/static/js/main.3c7bfa3d.js",
+    "main.js": "/irprd/static/js/main.070fe132.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/banner.png": "/irprd/static/media/banner.2f4ffd0dffdd4b69db02.png",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
@@ -39,11 +39,11 @@
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
     "main.27dc1565.css.map": "/irprd/static/css/main.27dc1565.css.map",
-    "main.3c7bfa3d.js.map": "/irprd/static/js/main.3c7bfa3d.js.map",
+    "main.070fe132.js.map": "/irprd/static/js/main.070fe132.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27dc1565.css",
-    "static/js/main.3c7bfa3d.js"
+    "static/js/main.070fe132.js"
   ]
 }
