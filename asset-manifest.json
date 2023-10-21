@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.cd230e9d.css",
-    "main.js": "/irprd/static/js/main.52e75c60.js",
+    "main.css": "/irprd/static/css/main.61a5dc6c.css",
+    "main.js": "/irprd/static/js/main.bbac2901.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
     "static/media/Hourglass.svg": "/irprd/static/media/Hourglass.b47ca871c6895f973b094cfb652131a6.svg",
@@ -9,8 +9,10 @@
     "static/media/BannerVideos.png": "/irprd/static/media/BannerVideos.8a47484de6b291e1cb24.png",
     "static/media/dalaiLama.png": "/irprd/static/media/dalaiLama.86d6cb2ee7d8f60f28c5.png",
     "static/media/RajivRanjan.png": "/irprd/static/media/RajivRanjan.5cc906d45952f710343b.png",
+    "static/media/BannerVideos.jpg": "/irprd/static/media/BannerVideos.2be7b845b794fcfed7b1.jpg",
     "static/media/Vector Smart Object.png": "/irprd/static/media/Vector Smart Object.f65b736af093a3cd4f5e.png",
     "static/media/DalaiLama.png": "/irprd/static/media/DalaiLama.47d179db3bb2fa88e5bb.png",
+    "static/media/Videos02.jpg": "/irprd/static/media/Videos02.833959e37ca6e1150667.jpg",
     "static/media/BannereconomicPolicy.jpg": "/irprd/static/media/BannereconomicPolicy.e0ebd1c3f2db7e4c9728.jpg",
     "static/media/Events_03Events.png": "/irprd/static/media/Events_03Events.1a844fd12f79f26668c9.png",
     "static/media/Messagepg1.jpg": "/irprd/static/media/Messagepg1.9993c6c4655294f4d70d.jpg",
@@ -42,12 +44,12 @@
     "static/media/logo.png": "/irprd/static/media/logo.c72825c98db750022b81.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.cd230e9d.css.map": "/irprd/static/css/main.cd230e9d.css.map",
-    "main.52e75c60.js.map": "/irprd/static/js/main.52e75c60.js.map",
+    "main.61a5dc6c.css.map": "/irprd/static/css/main.61a5dc6c.css.map",
+    "main.bbac2901.js.map": "/irprd/static/js/main.bbac2901.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd230e9d.css",
-    "static/js/main.52e75c60.js"
+    "static/css/main.61a5dc6c.css",
+    "static/js/main.bbac2901.js"
   ]
 }
