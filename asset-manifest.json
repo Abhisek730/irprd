@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.61a5dc6c.css",
-    "main.js": "/irprd/static/js/main.bbac2901.js",
+    "main.css": "/irprd/static/css/main.3c8385b2.css",
+    "main.js": "/irprd/static/js/main.8d161347.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
     "static/media/Hourglass.svg": "/irprd/static/media/Hourglass.b47ca871c6895f973b094cfb652131a6.svg",
@@ -16,12 +16,15 @@
     "static/media/BannereconomicPolicy.jpg": "/irprd/static/media/BannereconomicPolicy.e0ebd1c3f2db7e4c9728.jpg",
     "static/media/Events_03Events.png": "/irprd/static/media/Events_03Events.1a844fd12f79f26668c9.png",
     "static/media/Messagepg1.jpg": "/irprd/static/media/Messagepg1.9993c6c4655294f4d70d.jpg",
+    "static/media/LabhPalalnaVideos.jpg": "/irprd/static/media/LabhPalalnaVideos.63bbeb075596112e3d47.jpg",
     "static/media/logo.svg": "/irprd/static/media/logo.9bb754a553bb7115fef2ce0a889316c6.svg",
     "static/media/Events_01Events.jpg": "/irprd/static/media/Events_01Events.289a3732dd0247d0a714.jpg",
     "static/media/Events_02Events.jpg": "/irprd/static/media/Events_02Events.9517284470e9b250b0f9.jpg",
     "static/media/Rural_Urbanisation.jpg": "/irprd/static/media/Rural_Urbanisation.59ca979739855a173c78.jpg",
+    "static/media/YogaKshemaVideos.jpg": "/irprd/static/media/YogaKshemaVideos.101c14178586ebd9cbfd.jpg",
     "static/media/Graph.jpg": "/irprd/static/media/Graph.7344ed607cb0be11e4ee.jpg",
     "static/media/Agriculture.jpg": "/irprd/static/media/Agriculture.7dd9f4c1ea9e619e04f4.jpg",
+    "static/media/LokaSangrahaVideos.jpg": "/irprd/static/media/LokaSangrahaVideos.6752e5c900e971453c71.jpg",
     "static/media/BACKGROUND_AND_EVOLUTION.jpg": "/irprd/static/media/BACKGROUND_AND_EVOLUTION.7b3751eafe1d352caaba.jpg",
     "static/media/letter.png": "/irprd/static/media/letter.c8a1f3db86e9cd3ae5ff.png",
     "static/media/Food_Security.jpg": "/irprd/static/media/Food_Security.5fc446f01f7abd14852b.jpg",
@@ -44,12 +47,12 @@
     "static/media/logo.png": "/irprd/static/media/logo.c72825c98db750022b81.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.61a5dc6c.css.map": "/irprd/static/css/main.61a5dc6c.css.map",
-    "main.bbac2901.js.map": "/irprd/static/js/main.bbac2901.js.map",
+    "main.3c8385b2.css.map": "/irprd/static/css/main.3c8385b2.css.map",
+    "main.8d161347.js.map": "/irprd/static/js/main.8d161347.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61a5dc6c.css",
-    "static/js/main.bbac2901.js"
+    "static/css/main.3c8385b2.css",
+    "static/js/main.8d161347.js"
   ]
 }
