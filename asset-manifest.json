@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irprd/static/css/main.ebafe1b7.css",
-    "main.js": "/irprd/static/js/main.1e1736de.js",
+    "main.css": "/irprd/static/css/main.cae7fe9e.css",
+    "main.js": "/irprd/static/js/main.9b3569a8.js",
     "static/js/787.d0328585.chunk.js": "/irprd/static/js/787.d0328585.chunk.js",
     "static/media/design.svg": "/irprd/static/media/design.b6ea4c96d324a9bb07d78a7b814af0f5.svg",
     "static/media/Hourglass.svg": "/irprd/static/media/Hourglass.b47ca871c6895f973b094cfb652131a6.svg",
@@ -11,11 +11,17 @@
     "static/media/RajivRanjan.png": "/irprd/static/media/RajivRanjan.5cc906d45952f710343b.png",
     "static/media/OurMissionVideos.png": "/irprd/static/media/OurMissionVideos.a3c1f2005bf4b39e76b2.png",
     "static/media/VisionVideos.png": "/irprd/static/media/VisionVideos.f6bc0023d29772266e50.png",
+    "static/media/agriculture.jpg": "/irprd/static/media/agriculture.a2bffc16b72f482ac7f3.jpg",
+    "static/media/RuralUrbanisation.jpg": "/irprd/static/media/RuralUrbanisation.2b10396ad45dfb689254.jpg",
     "static/media/BannerVideos.jpg": "/irprd/static/media/BannerVideos.2be7b845b794fcfed7b1.jpg",
     "static/media/Vector Smart Object.png": "/irprd/static/media/Vector Smart Object.f65b736af093a3cd4f5e.png",
+    "static/media/FoodSecurity.jpg": "/irprd/static/media/FoodSecurity.07fb5b563c2b90977416.jpg",
+    "static/media/InternationalRelationsForeignPolicy.jpg": "/irprd/static/media/InternationalRelationsForeignPolicy.11596e9f39ddfb2bf983.jpg",
     "static/media/DalaiLama.png": "/irprd/static/media/DalaiLama.47d179db3bb2fa88e5bb.png",
     "static/media/Videos02.jpg": "/irprd/static/media/Videos02.833959e37ca6e1150667.jpg",
     "static/media/BannereconomicPolicy.jpg": "/irprd/static/media/BannereconomicPolicy.e0ebd1c3f2db7e4c9728.jpg",
+    "static/media/tradec.jpg": "/irprd/static/media/tradec.194e352c60ec455c1f11.jpg",
+    "static/media/climate.jpg": "/irprd/static/media/climate.d706f6759ee23eff6cbb.jpg",
     "static/media/Events_03Events.png": "/irprd/static/media/Events_03Events.1a844fd12f79f26668c9.png",
     "static/media/RoadVideos.png": "/irprd/static/media/RoadVideos.008bbe0844bb69b68499.png",
     "static/media/Messagepg1.jpg": "/irprd/static/media/Messagepg1.9993c6c4655294f4d70d.jpg",
@@ -27,6 +33,7 @@
     "static/media/YogaKshemaVideos.jpg": "/irprd/static/media/YogaKshemaVideos.101c14178586ebd9cbfd.jpg",
     "static/media/Graph.jpg": "/irprd/static/media/Graph.7344ed607cb0be11e4ee.jpg",
     "static/media/Agriculture.jpg": "/irprd/static/media/Agriculture.7dd9f4c1ea9e619e04f4.jpg",
+    "static/media/educationt.jpg": "/irprd/static/media/educationt.54f7b4cd4ff202810ec2.jpg",
     "static/media/LokaSangrahaVideos.jpg": "/irprd/static/media/LokaSangrahaVideos.6752e5c900e971453c71.jpg",
     "static/media/BACKGROUND_AND_EVOLUTION.jpg": "/irprd/static/media/BACKGROUND_AND_EVOLUTION.7b3751eafe1d352caaba.jpg",
     "static/media/letter.png": "/irprd/static/media/letter.c8a1f3db86e9cd3ae5ff.png",
@@ -55,12 +62,12 @@
     "static/media/Videos1.png": "/irprd/static/media/Videos1.d32742f14b1577668474.png",
     "static/media/cardBg.svg": "/irprd/static/media/cardBg.fb62c90b38842a5d6a28.svg",
     "index.html": "/irprd/index.html",
-    "main.ebafe1b7.css.map": "/irprd/static/css/main.ebafe1b7.css.map",
-    "main.1e1736de.js.map": "/irprd/static/js/main.1e1736de.js.map",
+    "main.cae7fe9e.css.map": "/irprd/static/css/main.cae7fe9e.css.map",
+    "main.9b3569a8.js.map": "/irprd/static/js/main.9b3569a8.js.map",
     "787.d0328585.chunk.js.map": "/irprd/static/js/787.d0328585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebafe1b7.css",
-    "static/js/main.1e1736de.js"
+    "static/css/main.cae7fe9e.css",
+    "static/js/main.9b3569a8.js"
   ]
 }
